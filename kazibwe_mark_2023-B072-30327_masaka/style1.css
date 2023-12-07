@@ -1,0 +1,151 @@
+.fc-navbar {
+  background-color: #4267b2;
+  border-bottom: 1px solid #29487d;
+  color: #fff;
+  padding-left: 12%;
+  padding-right: 14%;
+  height: 43px;
+}
+
+body {
+  background-color: #e9ebee;
+  color: #1d2129;
+}
+
+
+.fc-label {
+  color: #616770;
+  display: block;
+  white-space: nowrap;
+  width: 0;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.fc-search-top {
+  height: 23px;
+  border-radius: 2px;
+}
+
+.fc-search-btn {
+  height: 23px;
+}
+
+.fc-nav-link {
+  font-size: 13px;
+  color: white !important;
+}
+
+.fc-input-group-navbar {
+  margin-top: 10px;
+  width: 46%;
+}
+
+.fc-icon-dropdown {
+  height: 18px;
+  width: 18px;
+  opacity: 0.6;
+}
+
+.fc-dropdown-secondary {
+  right: 0;
+  left: auto;
+  padding-left: 1px;
+  padding-right: 1px;
+  min-width: 240px;
+}
+
+.fc-dropdown .title {
+  font-size: 12px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.fc-dropdown a {
+  font-size: 12px;
+  text-align: right;
+}
+
+.fc-card-header {
+  padding: 7px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #4b4f56;
+}
+
+.fc-card-header-secondary {
+  padding: 7px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #4b4f56;
+  background-color: #fff;
+}
+
+textarea {
+  border: none !important;
+}
+
+.fc-btn {
+  border-radius: 2px;
+  font-size: 12px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: bold;
+  padding: 0 8px;
+}
+
+.fc-btn-default {
+  background-color: #f5f6f7;
+  border-color: #ccd0d5;
+  color: #4b4f56;
+}
+
+.fc-btn-white {
+  background-color: #fff;
+  border: none;
+  color: #4b4f56;
+}
+
+.fc-btn-rounded {
+  background-color: #f5f6f7;
+  border: none;
+  color: #4b4f56;
+  border-radius: 20px;
+  width: 129px;
+  height: 30px;
+}
+
+.fc-icon label {
+  margin-left: 18px;
+  margin-top: 2px;
+  width: 100px;
+}
+
+.fc-btn-primary {
+  background-color: #4267b2;
+  border-color: #29487d;
+  color: #fff;
+}
+
+a {
+  color: #385898;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+span {
+  color: #606770;
+  font-size: 12px;
+}
+
+.mr-auto {
+  margin-right: auto !important;
+  position: absolute;
+  right: 154px;
+}
+
+.fc-dropdown-item:hover {
+  background-color: #4267b2;
+  color: #fff;
+}
+
